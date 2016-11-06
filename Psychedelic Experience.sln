@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Psychedelic Experience.CSharp.Plugins", "Psychedelic Experience.CSharp.Plugins.csproj", "{DCC7E6F1-28E3-24A6-1817-DF416887D198}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Psychedelic Experience.CSharp", "Psychedelic Experience.CSharp.csproj", "{EC6DD760-6BED-738E-1C46-5D843DC43AC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Psychedelic Experience.CSharp.Editor", "Psychedelic Experience.CSharp.Editor.csproj", "{ED0F8049-E7FC-EB70-34CC-4BCC7A94456F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCC7E6F1-28E3-24A6-1817-DF416887D198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC7E6F1-28E3-24A6-1817-DF416887D198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC7E6F1-28E3-24A6-1817-DF416887D198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC7E6F1-28E3-24A6-1817-DF416887D198}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC6DD760-6BED-738E-1C46-5D843DC43AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC6DD760-6BED-738E-1C46-5D843DC43AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC6DD760-6BED-738E-1C46-5D843DC43AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC6DD760-6BED-738E-1C46-5D843DC43AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED0F8049-E7FC-EB70-34CC-4BCC7A94456F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED0F8049-E7FC-EB70-34CC-4BCC7A94456F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED0F8049-E7FC-EB70-34CC-4BCC7A94456F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED0F8049-E7FC-EB70-34CC-4BCC7A94456F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
